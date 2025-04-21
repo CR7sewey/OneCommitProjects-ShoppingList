@@ -4,9 +4,13 @@ Well a shopping list app is exactly what it is. A shopping list app.
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-<img src="https://github.com/user-attachments/assets/d0bec63f-c673-4b1e-9d01-18684c2e527a" width=170/> 
-<img src="https://github.com/user-attachments/assets/64731054-93d3-48d5-a246-271da98af89c" width=170/> 
-<img src="https://github.com/user-attachments/assets/71573bca-621b-464c-a940-5ecef550f4ca" width=170/> 
+<img src="https://github.com/user-attachments/assets/444115ff-3642-4727-ba3d-2c9ee1aef735" width=170/> 
+<img src="https://github.com/user-attachments/assets/bc5c49f1-f7a2-45e8-a347-50234cf430e8" width=170/> 
+<img src="https://github.com/user-attachments/assets/66656267-1cc9-47f8-ae74-08872d333c1e" width=170/> 
+
+<img src="https://github.com/user-attachments/assets/2595b68e-705f-4ac3-9d10-ae679a28dc03" width=170/> 
+<img src="https://github.com/user-attachments/assets/0feff087-7107-4427-a0d8-5160374be5ad" width=170/> 
+<img src="https://github.com/user-attachments/assets/ae6b954a-9604-4aa1-b6f0-a031c4bf19f1" width=170/> 
 
 
 ## License
